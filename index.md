@@ -2,7 +2,7 @@
 title: Curso Herramientas de Productividad para Ciencia de Datos
 subtitle: XXIX ENOAN
 layout: page
-hero_image: /img/bannerenoan.png
+hero_image: /img/enoan2.jpg
 hero_darken: true
 show_sidebar: false
 ---
