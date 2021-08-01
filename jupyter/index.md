@@ -2,7 +2,7 @@
 layout: default
 title: Jupyter, Anaconda, R, RStudio
 subtitle: El cinturón de Batman de la ciencia de datos
-hero_image: /enoan-2021-i2.github.io/img/jupyter-banner.jpg
+hero_image: /img/jupyter-banner.jpg
 hero_darken: true
 hide_footer: true
 ---
