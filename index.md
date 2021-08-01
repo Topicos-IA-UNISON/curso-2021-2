@@ -53,4 +53,4 @@ Para desarrollar Ciencia de Datos, además de las bases teóricas (álgebra line
   2.	Uso básico
 
 
-<img src="/curso-hpcd/img/MCDLogo.png" alt="drawing" width="300"/>
+<img src="/img/logoenoanxxix.png" alt="drawing" width="300"/>
