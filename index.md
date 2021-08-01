@@ -54,5 +54,6 @@ Para desarrollar Ciencia de Datos, además de las bases teóricas (álgebra line
   1.	Presentación de libretas jupyter
   2.	Uso básico
 
-
+<center>
 <img src="/img/logoenoanxxix.png" alt="drawing" width="300"/>
+</center>
