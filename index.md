@@ -55,5 +55,5 @@ Para desarrollar Ciencia de Datos, además de las bases teóricas (álgebra line
   2.	Uso básico
 
 <center>
-<img src="/img/logoenoanxxix.png" alt="drawing" width="300"/>
+<img src="/img/logoenoanxxix.png" alt="drawing" width="400"/>
 </center>
