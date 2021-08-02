@@ -1,6 +1,6 @@
 ---
 title: Actividades de aprendizaje
-subtitle: Para la semana del 11 al 16 de abril
+subtitle: La linea de comando
 layout: page
 show_sidebar: false
 hide_hero: true
