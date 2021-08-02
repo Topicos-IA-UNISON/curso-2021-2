@@ -31,7 +31,7 @@ Para desarrollar Ciencia de Datos, además de las bases teóricas (álgebra line
   2.	Instalación de Docker, y uso de imágenes existentes en Docker Hub
   3.	Uso de imágenes existentes en Docker Hub
   4.	Personalización de imágenes
-  5.  *__Contenedores funcionando en forma no interactiva__*
+  5.  *_Contenedores funcionando en forma no interactiva_*
 - **El bash shield y su uso básico**
   1.	Movimiento en un sistema tipo UNIX
   2.	Copiar, mover y borrar archivos y directorios
@@ -39,17 +39,17 @@ Para desarrollar Ciencia de Datos, además de las bases teóricas (álgebra line
   4.	El uso de `--help`, `man` y `tldr`
   5.	Edición de texto con `cat`, `nano` y otras herramientas
   6.	Descargando datos en linea de comando (`curl` y `wget`)
-  7.	*__El editor en streaming `sed`, `awk` y la suit `csvkit` para procesamiento de tablas de texto__*
+  7.	*_El editor en streaming `sed`, `awk` y la suit `csvkit` para procesamiento de tablas de texto_*
 - **Git y GitHub**
   1.	Presentación sobre Git e instalación
   2.	GitHub y creación de cuentas
   3.	Clonando y forkeando repositorios
   4.	Creación de un repositorio de uso personal en GitHub, uso básico del CLI
-  5.	*__Creación de un repositorio compartido en GitHub__*
+  5.	*_Creación de un repositorio compartido en GitHub_*
 -	**Pagina web de proyecto y pagina web personal en GitHub**
   1.	El lenguaje de marcado Markdown
   2.	Generación de páginas web con plantilla preestablecida
-  3.	*__Desarrollo de una página personal usando Jekyll__*
+  3.	*_Desarrollo de una página personal usando Jekyll_*
 -	**Libretass Jupyter** 
   1.	Presentación de libretas jupyter
   2.	Uso básico
