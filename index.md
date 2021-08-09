@@ -2,7 +2,7 @@
 title: Curso Tópicos Avanzados de Inteligencia Artificial 
 subtitle: Lic. en Ciencias de la Computacón, Universidad de Sonora
 layout: page
-hero_image: /img/rectoria2_muse.jpg
+hero_image: /curso-2021-2/img/rectoria2_muse.jpg
 hero_darken: true
 show_sidebar: false
 ---
