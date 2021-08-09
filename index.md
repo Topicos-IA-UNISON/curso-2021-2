@@ -29,7 +29,7 @@ en que vamos a evaluarnos, a partir de
 un consenso entre los participantes (estudiantes y profesor).
 
 
-## ¿Porqué una estrategia didáctica de aprendizae orientada a proyectos?
+## ¿Porqué una estrategia didáctica de aprendizaje orientada a proyectos?
 
 El aprendizaje orientado a proyectos busca enfrentar a los estudiantes
 a situaciones que los lleven a rescatar, comprender y aplicar aquello
