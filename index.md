@@ -1,59 +1,111 @@
 ---
-title: Curso Herramientas de Productividad para Ciencia de Datos
-subtitle: XXIX ENOAN
+title: Curso Tópicos Avanzados de Inteligencia Artificial 
+subtitle: Lic. en Ciencias de la Computacón, Universidad de Sonora
 layout: page
 hero_image: /img/rectoria2_muse.jpg
 hero_darken: true
 show_sidebar: false
 ---
 
+Hola, soy [Julio Waissman
+Vilanova](http://mat.uson.mx/~juliowaissman/) y espero que este curso
+sea muy provechoso para todos nosotros, que aprendamos muchas cosas
+nuevas al tiempo que vamos desarrollando proyectos.
 
-Para desarrollar Ciencia de Datos, además de las bases teóricas (álgebra lineal, probabilidad, estadística y optimización principalmente) es necesario manejar diferentes aspectos técnicos más cercanos al procesamiento de los datos. Un tema que se le suele no dar el valor necesario es al uso de las diversas herramientas que facilitan la labor de un Científico de Datos en su trabajo del día a día. Este curso tiene como objetivo dar a conocer y enseñar los usos básicos de algunas de estas herramientas que se han vuelto fundamentales en el desarrollo de proyectos de Ciencia de Datos: Uso de contenedores, manejadores de versiones, la línea de comandos de UNIX y las libretas Jupyter como medio de investigación reproducible.
+Este curso forma parte del eje de integración de la curricula de la
+[Licenciatura en Ciencias de la Computación](http://cc.mat.uson.mx) de
+la [Universidad de Sonora](http://www.uson.mx). Los datos del curso
+son:
 
-## Instructores
+| Profesor   | Julio Waissman Vilanova                                              |
+| Horarios   | Lunes, miércoles y viernes de 12:00 a 13:00 hrs                      |
+| Lugar      | Aula 202 y ocasionalmente en la sala de seminarios del edificio 3K-4 |
 
-- Julio Waissman Vilanova (julio.waissman@unison.mx)
-- Juan Pablo Soto Barrera (juanpablo.soto@unison.mx)
+Este curso se basa en una estrategia didáctica de aprendizaje
+orientada a proyectos, inclusiva y democratica. Como curso
+democratico, vamos a iniciar por decidir entre todos los temas a desarrollar
+durante el curso, el lenguaje de programación que vamos a utilizar, y la forma 
+en que vamos a evaluarnos, a partir de
+un consenso entre los participantes (estudiantes y profesor).
 
-## Fechas
 
-- Lunes 2 de agosto de 17:40 a 19:10 (hora centro del país)
-- Martes 3 de agosto de 17:40 a 19:10 (hora centro del país)
-- Miércoles 4 de agosto de 17:40 a 19:10 (hora centro del país)
+## ¿Porqué una estrategia didáctica de aprendizae orientada a proyectos?
 
-## Temario
+El aprendizaje orientado a proyectos busca enfrentar a los estudiantes
+a situaciones que los lleven a rescatar, comprender y aplicar aquello
+que aprenden como una herramienta para resolver problemas. Esta
+estrategia de enseñanza constituye un modelo de instrucción en el que
+los estudiantes planean, implementan y evalúan proyectos que tienen
+una potencial aplicación más allá del aula.
 
-- **Presentación y motivación**
-  1.	Presentación personal y presentación de los participantes
-  2.	Presentación sobre la Ciencia de Datos y motivación sobre la necesidad de conocer las herramientas de productividad
-- **Docker** 
-  1.	Presentación de Docker
-  2.	Instalación de Docker, y uso de imágenes existentes en Docker Hub
-  3.	Uso de imágenes existentes en Docker Hub
-  4.	Personalización de imágenes
-  5.  *_Contenedores funcionando en forma no interactiva_*
-- **El bash shield y su uso básico**
-  1.	Movimiento en un sistema tipo UNIX
-  2.	Copiar, mover y borrar archivos y directorios
-  3.	El comando `grep`
-  4.	El uso de `--help`, `man` y `tldr`
-  5.	Edición de texto con `cat`, `nano` y otras herramientas
-  6.	Descargando datos en linea de comando (`curl` y `wget`)
-  7.	*_El editor en streaming `sed`, `awk` y la suit `csvkit` para procesamiento de tablas de texto_*
-- **Git y GitHub**
-  1.	Presentación sobre Git e instalación
-  2.	GitHub y creación de cuentas
-  3.	Clonando y forkeando repositorios
-  4.	Creación de un repositorio de uso personal en GitHub, uso básico del CLI
-  5.	*_Creación de un repositorio compartido en GitHub_*
--	**Pagina web de proyecto y pagina web personal en GitHub**
-  1.	El lenguaje de marcado Markdown
-  2.	Generación de páginas web con plantilla preestablecida
-  3.	*_Desarrollo de una página personal usando Jekyll_*
--	**Libretass Jupyter** 
-  1.	Presentación de libretas jupyter
-  2.	Uso básico
+Cuando se utiliza el método de proyectos como estrategia, los
+estudiantes estimulan sus habilidades más fuertes y desarrollan
+algunas nuevas. Se motiva en ellos el interés por el aprendizaje y un
+sentimiento de responsabilidad y esfuerzo. Al trabajar con proyectos
+se espera reducir la competencia y motivar a los participantes a
+colaborar. Además, los proyectos pueden cambiar el enfoque del
+aprendizaje, estimulando la exploración de ideas.
 
-<center>
-<img src="/img/logoenoanxxix.png" alt="drawing" width="400"/>
-</center>
+Esta estrategia no excluye la presentacion de temas por parte del
+maestro y ejercicios a desarrollar por el alumno; sin embargo, estas
+actividades no son fines en sí, sino que son generadas y completadas
+con el fin de alcanzar algún objetivo o para solucionar algún
+problema. El contexto en el que trabajan los estudiantes debe ser un
+proyecto con dificultades reales por enfrentar.
+
+## ¿Porqué un curso democrático?
+
+De acuerso a la [Escuela para la paz, de la Universidad Autónoma de
+Barcelona](http://escolapau.uab.cat/index.php?lang=es):
+
+Una de las principales características de la perspectiva pedagógica
+debería ser el reconocimiento de que la democracia, la participación
+activa y real de todos los miembros de la comunidad educativa, no
+tiene que ser únicamente uno de los fines de la educación, sino
+también su medio.
+
+Para valorar la importancia que esta innovación puede suponer,
+conviene tener en cuenta el desarrollo de la democracia participativa
+en la escuela como una de las mejores herramientas para aprender a
+construir la noviolencia; para mejorar la calidad de la vida en la
+escuela y las relaciones que en ella se establecen; para disminuir los
+conflictos provocados por la trasgresión de las normas; para ayudar a
+prevenir la violencia y desarrollar en los propios alumnos el sentido
+de responsabilidad, además de las diversas y complejas capacidades y
+habilidades (cognitivas, emocionales y conductuales) necesarias para
+asumir con eficacia un papel activo en la construcción de la
+democracia.
+
+> El hecho de preguntar a los demás que desearían, qué necesitan y
+> cuáles son sus ideas, constituye una parte fundamental de la idea
+> democrática. Y ya que es el individuo el que conoce sus propios
+> males, la democracia consiste en interrogar a cada individuo
+> activamente, haciendo que participe realmente del proceso de
+> autoridad y control social. (Dewey, 1927).
+
+Establecer una democracia participativa puede caracterizarse, como
+mínimo, por cuatro principios:
+
+1. Establecer de una comunidad basada en la democracia y la
+   justicia. La justicia de las reglas y del proceso grupal se basa en
+   la calidad democrática y en el hecho de que los conflictos sean
+   tratados como cuestiones de justicia entre individuos con los
+   mismos derechos.
+
+2. La extensión de la responsabilidad. Es importante que la asamblea o
+   el grupo de discusión tenga autoridad real sobre muchos aspectos de
+   la vida cotidiana del centro, y que otorgue al grupo tanta
+   responsabilidad como sea posible.
+
+3. Estimular la responsabilidad colectiva y crear un clima de
+   confianza. Es necesario crear el sentido de la responsabilidad
+   colectiva, según el cual el individuo es responsable del bienestar
+   del grupo. A su vez, el grupo es responsable del bienestar del
+   individuo.
+
+4. Desarrollar el concepto de autoridad como aquella capacidad para
+   intervenir y resolver los conflictos de forma justa.
+
+Espero que esta sea una experiencia enriquecedora para todos y funcione 
+en un contexto tan pequeño como es el curso.
+

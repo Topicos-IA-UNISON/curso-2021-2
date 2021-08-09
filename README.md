@@ -1,6 +1,6 @@
 ---
-title: Curso Herramientas de Productividad para Ciencia de Datos
-subtitle: Diplomado en Fundamentos de Ciencia de Datos
+title: Tópicos Avanzados de Inteligencia Artificial 
+subtitle: Licenciatura en Ciencias de la Computación / UNISON
 layout: page
 show_sidebar: false
 ---
@@ -9,19 +9,13 @@ show_sidebar: false
 
 Julio Waissman Vilanova (julio.waissman@unison.mx)
 
-## Fechas
+## Horario
 
-- Viernes 9 de abril de 19:00 a 21:00 hrs
-- Sábado 10 de abril de 10:00 a 12:00 hrs 
-- Viernes 16 de abril de 19:00 a 21:00 hrs
-- Sábado 17 de abril de 8:00 a 11:00 hrs
-- Sábado 24 de abril de 8:00 a 9:00 hrs (Cierre)
+Lunes, miércoles y viernes de 12:00 a 13:00 hrs
 
-Trabajos para realizar en las dos semanas intermedias
 
-### MCD/UNISON
+## Página
 
-El curso (y el diplomado en general) se encuentra respaldado por la planta académica de la [Maestría en Ciencia de datos](https://mcd.unison.mx) del [Departamento de Matemáticas de la Universidad de Sonora](https://www.mat.uson.mx/web/)
-
-[![JetBrains](img/MCDLogo.png)](https://mcd.unison.mx)
-
+Este es el repositorio con la información del curso, para Github, 
+si quieres ver el curso y el material, accesa a su página en 
+[este enlace a la página del curso](https://topicos-ia-unison.github.io/curso-2021-2/)
