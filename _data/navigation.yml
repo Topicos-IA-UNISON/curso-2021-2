@@ -1,22 +1,9 @@
-- name: Contenido
+- name: Acuerdos
   link: /#
   dropdown:
-    - name: Introducción a la ciencia de datos
-      link: /intro/
-    - name: Docker
-      link: /docker/
-    - name: Herramientas de UNIX
-      link: /bash/
-    - name: Git y GitHub
-      link: /git/
-    - name: Jupyter, Anaconda, R, RStudio
-      link: /jupyter/
-- name: Actividades complementarias
-  link: /#
-  dropdown:
-    - name: Uso del CLI
-      link: /actividades1/
-    - name: Descargando y limpiando datos
-      link: /actividades2/
-    - name: Uso de Git para ciencia de datos
-      link: /actividades3/
+    - name: Temario 
+      link: /temario/
+    - name: Evaluación
+      link: /evalua/
+    - name: Lenguaje de programación
+      link: /lang/
