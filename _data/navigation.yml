@@ -7,8 +7,8 @@
       link: /evalua/
     - name: Lenguaje de programación
       link: /lang/
--name: Temas
- link: /#
- dropdown:
+- name: Temas
+  link: /#
+  dropdown:
     - name: Análisis predictivo
-      link: predictivo
+      link: /predictivo/
