@@ -12,3 +12,7 @@
   dropdown:
     - name: Análisis predictivo
       link: /predictivo/
+    - name: Detección de anomalías
+      link: /anomalias/
+    - name: Desarrollo de un chatbot
+      link: /chatbot/

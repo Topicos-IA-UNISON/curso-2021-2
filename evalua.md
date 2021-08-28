@@ -7,4 +7,18 @@ hero_darken: true
 show_sidebar: false
 ---
 
-**Por acordar con todo el grupo**
+
+## Actividades de aprendizaje (50% de la calificación)
+
+1. Cursos de EdX, Nvidia, DataCamp, Kaggle, etc... 
+   - **Evidencias**: Certificado de compleción (0 o 10)
+2. Tutoriales prácticos (FastAPI)
+   - **Evidencias**: Repositorio en *github*  (revisión por 3 pares en 0 a 10)
+
+## Proyectos de cada tópico (50% de la calificación)
+
+1. Repositorio en *github*
+2. Entrada en *Medium* o algo similar
+
+
+

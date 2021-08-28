@@ -33,3 +33,7 @@ La mejor manera de aprender a utilizar *FastAPI* es a través [del tutorial de l
 
 > Por decisión del grupo, se acordó realizar el tutorial de *FastAPI* en un repositorio de *github* y subr la dirección del repositorio para la tarea
 
+<!--- Diana recomiendo ver este video de FastAPI --->
+
+- José Alberto recomienda [este video](https://www.youtube.com/watch?v=tLKKmouUams) de *FreeCodeCamp* para entrarle a *FastAPI*
+
