@@ -15,7 +15,7 @@ show_sidebar: false
 2. Tutoriales prácticos (FastAPI)
    - **Evidencias**: Repositorio en *github*  (revisión por 3 pares en 0 a 10)
 
-## Proyectos de cada tópico (50% de la calificación)
+## Proyectos seleccionado (50% de la calificación)
 
 1. Repositorio en *github*
 2. Entrada en *Medium* o algo similar
